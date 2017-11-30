@@ -11,6 +11,7 @@ public class GameOverManagerScript : MonoBehaviour {
     {
         //unlocks cursor on screen
         Cursor.lockState = CursorLockMode.None;
+        Cursor.visible = true;
 
         replayBtn.onClick.AddListener(replayBtnAction);
     }

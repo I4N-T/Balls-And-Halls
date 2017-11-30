@@ -12,6 +12,9 @@ public class TitleScreenManager : MonoBehaviour
 
     void Awake()
     {
+        //unlocks cursor on screen
+        Cursor.lockState = CursorLockMode.None;
+
         musicSource.clip = BandHTheme;
         playBtn.onClick.AddListener(PlayBtnAction);
         musicSource.Play();
