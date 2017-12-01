@@ -3,6 +3,7 @@
 Balls and Halls is a game created by Ian T for Github Gameoff 2017. The theme for the Gameoff was "throwback".
 
 Play the game here: https://i4n-t.itch.io/balls-and-halls
+
 Check out the gameplay video here: https://youtu.be/Srpa7EQiieM
 
 The game is separated into 2 distinct levels. The first level involves a game of dodgeball, and the second level is an oldschool style FPS. 
